@@ -5,6 +5,6 @@ pip install -r requirements.txt
 
 fastapi dev main.py --port 8085
 
-//exit to eve
+//exit to env
 deactivate
 
