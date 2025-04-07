@@ -1,0 +1,6 @@
+fastapi[standard]
+numpy==1.26.*
+soundfile
+torch
+#TTS
+coqui-tts==0.25.1
